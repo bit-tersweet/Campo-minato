@@ -1,0 +1,24 @@
+E:\Informatica\CampoMinato\CampoMinato\bin\Debug\CampoMinato.exe.config
+E:\Informatica\CampoMinato\CampoMinato\bin\Debug\CampoMinato.exe
+E:\Informatica\CampoMinato\CampoMinato\bin\Debug\CampoMinato.pdb
+E:\Informatica\CampoMinato\CampoMinato\obj\Debug\CampoMinato.csprojResolveAssemblyReference.cache
+E:\Informatica\CampoMinato\CampoMinato\obj\Debug\CampoMinato.exe
+E:\Informatica\CampoMinato\CampoMinato\obj\Debug\CampoMinato.pdb
+D:\Informatica\CampoMinato\CampoMinato\bin\Debug\CampoMinato.exe.config
+D:\Informatica\CampoMinato\CampoMinato\obj\Debug\CampoMinato.exe
+D:\Informatica\CampoMinato\CampoMinato\obj\Debug\CampoMinato.pdb
+D:\Informatica\CampoMinato\CampoMinato\bin\Debug\CampoMinato.exe
+D:\Informatica\CampoMinato\CampoMinato\bin\Debug\CampoMinato.pdb
+D:\Informatica\CampoMinato\CampoMinato\obj\Debug\CampoMinato.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\CampoMinato\bin\Debug\CampoMinato.exe.config
+C:\Users\Asus\Desktop\CampoMinato\obj\Debug\CampoMinato.exe
+C:\Users\Asus\Desktop\CampoMinato\obj\Debug\CampoMinato.pdb
+C:\Users\Asus\Desktop\CampoMinato\bin\Debug\CampoMinato.exe
+C:\Users\Asus\Desktop\CampoMinato\bin\Debug\CampoMinato.pdb
+C:\Users\Asus\Desktop\CampoMinato\obj\Debug\CampoMinato.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SCUOLA\Info\giochi\campiMinati\Campo MinatoFinale\CampoMinato\bin\Debug\CampoMinato.exe.config
+C:\Users\Asus\Desktop\SCUOLA\Info\giochi\campiMinati\Campo MinatoFinale\CampoMinato\obj\Debug\CampoMinato.exe
+C:\Users\Asus\Desktop\SCUOLA\Info\giochi\campiMinati\Campo MinatoFinale\CampoMinato\obj\Debug\CampoMinato.pdb
+C:\Users\Asus\Desktop\SCUOLA\Info\giochi\campiMinati\Campo MinatoFinale\CampoMinato\bin\Debug\CampoMinato.exe
+C:\Users\Asus\Desktop\SCUOLA\Info\giochi\campiMinati\Campo MinatoFinale\CampoMinato\bin\Debug\CampoMinato.pdb
+C:\Users\Asus\Desktop\SCUOLA\Info\giochi\campiMinati\Campo MinatoFinale\CampoMinato\obj\Debug\CampoMinato.csprojResolveAssemblyReference.cache
